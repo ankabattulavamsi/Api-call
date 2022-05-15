@@ -73,3 +73,31 @@
   color: #1ecf59;
 
 }
+
+
+.form-control{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+
+.heading {
+  background-color: #1ecf59;
+  color: #fff;
+  font-size: 32px;
+  font-family: "Roboto";
+  text-align: center;
+  padding: 8px;
+}
+
+.form-radio{
+  border: 1px solid #000;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+  margin: 6px;
+  border-radius: 6px;
+  width: 200px;
+}
